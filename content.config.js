@@ -636,15 +636,15 @@ module.exports = {
   // (le build les liste). Ces textes sont des modèles : faites-les valider si besoin.
   legal: {
     publisher: "Jade Burgunder",
-    status: "[À compléter : statut juridique, ex. entrepreneur individuel / micro-entrepreneur]",
-    siret: "[À compléter : numéro SIRET]",
-    address: "[À compléter : adresse professionnelle]",
-    vat: "[À compléter : mention de TVA, ex. « TVA non applicable, article 293 B du CGI »]",
-    hostName: "[À compléter : nom de l'hébergeur]",
-    hostAddress: "[À compléter : adresse de l'hébergeur]",
-    payment: "[À compléter : moyens de paiement acceptés, ex. espèces, chèque, virement]",
-    cancellation: "[À compléter : délai d'annulation, ex. 24 h avant le rendez-vous]",
-    mediator: "[À compléter : médiateur de la consommation (nom et coordonnées)]",
+    status: "Entrepreneur individuel",
+    siret: "882 776 271 00018 : numéro SIRET",
+    address: "2 impasse Pierre Maurand 31500 Toulouse",
+    vat: " TVA non applicable, article 293 B du CGI ",
+    hostName: "FreeHosting",
+    hostAddress: "",
+    payment: "Espèces, chèque et virement",
+    cancellation: "48h avant le rdv : délai d'annulation",
+    mediator: "MED CONSO DEV",
     updated: "2026-11-04"
   }
 };

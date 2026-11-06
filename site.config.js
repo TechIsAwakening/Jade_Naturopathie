@@ -260,8 +260,8 @@ module.exports = {
         { label: "Politique de confidentialité", href: "/politique-de-confidentialite/" }
       ],
       followTitle: "Suivez-moi",
-      instagram: "https://www.instagram.com/",
-      facebook: "https://www.facebook.com/",
+      instagram: "https://www.instagram.com/jade.naturoanimal/",
+      facebook: "https://www.facebook.com/jade.burgunder.naturopathie.animale/",
       copyright: "© 2026 Jade Burgunder N.A. — Tous droits réservés"
     }
   }
