@@ -1,0 +1,13 @@
+{
+  "name": "site-naturopathie-jade",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "images": "node scripts/optimize-images.js",
+    "fonts": "node scripts/fetch-fonts.js",
+    "start": "node build.js && npx serve ."
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}
